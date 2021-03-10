@@ -118,9 +118,9 @@ label
                               </a>
 
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                        <a class="dropdown-item" href="Adminpanel.php">Author</a>
-                                        <a class="dropdown-item" href="Customerportal.php">Book</a>
-                                        <a class="dropdown-item" href="Services.php">Book Category</a>
+                                        <a class="dropdown-item" href="Adminpanel.php">Admin</a>
+                                        <a class="dropdown-item" href="Customerportal.php">Customerportal</a>
+                                        <a class="dropdown-item" href="Services.php">Services</a>
                                          
                                     </div>
                                 </li>
